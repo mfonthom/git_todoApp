@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: #ffeff2;
+}
+.hero{
+    width: 100%;
+    padding: 70px 0;
+    background: linear-gradient(45deg,red,blue);
+    color: #fff;
+}
+
+h1{
+    font-weight: 700;
+}
+.todo-title-wrapper{
+    height: 50px;
+}
+.task-btn{
+    color: #fff;
+    background: linear-gradient(45deg,red,blue);
+    align-items: center !important;
+    padding: auto;
+   
+}
+.task-btn:hover{
+    color: #fff;
+}
+.icons{
+    color: #000;
+    padding: 0 0;
+}
